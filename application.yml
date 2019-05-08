@@ -24,4 +24,4 @@ spring:
 
   application:
 
-    name: microservicecloud-config-test11
+    name: microservicecloud-config-test
