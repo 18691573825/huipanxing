@@ -10,6 +10,7 @@ public class Junit5Application {
         //主启动类
         //呵呵
         //哈哈
+        //hehe
         SpringApplication.run(Junit5Application.class, args);
     }
 
