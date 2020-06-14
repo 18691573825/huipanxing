@@ -8,6 +8,7 @@ public class Junit5Application {
 
     public static void main(String[] args) {
         //主启动类
+        //哈哈
         SpringApplication.run(Junit5Application.class, args);
     }
 
