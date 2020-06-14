@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Junit5Application {
 
     public static void main(String[] args) {
+        //主启动类
         SpringApplication.run(Junit5Application.class, args);
     }
 
