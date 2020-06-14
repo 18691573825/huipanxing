@@ -12,6 +12,7 @@ public class Junit5Application {
         //哈哈
         //haha
         //hehe
+        //你妹的
         SpringApplication.run(Junit5Application.class, args);
     }
 
